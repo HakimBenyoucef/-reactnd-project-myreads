@@ -7,6 +7,8 @@ Users can change shelfs (categories) of their books (Currently Reading, Want Rea
 ![app](docs/screenshots/capture1.png)
 ![app](docs/screenshots/capture2.png)
 
+- **Live Demo:** [https://hakim-myreads-project.netlify.app/](https://hakim-myreads-project.netlify.app/)
+
 ## TL;DR
 
 To start the app:
