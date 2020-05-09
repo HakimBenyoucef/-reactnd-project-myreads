@@ -4,6 +4,9 @@ This is the first project of the Udacity React Nanodegree.
 It's a front end app which handles shelfs of a books library.
 Users can change shelfs (categories) of their books (Currently Reading, Want Read and Read) and can search and add books and navigate between the app components. 
 
+![app](docs/screenshots/capture1.png)
+![app](docs/screenshots/capture2.png)
+
 ## TL;DR
 
 To start the app:
